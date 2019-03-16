@@ -1,7 +1,7 @@
 # webmvc
 webmvc 포트폴리오
 
-<strong>Web MVC 기반 웹 프로젝트</strong><br>
+<h1><strong>Web MVC 기반 웹 프로젝트</strong></h1><br>
 2014154031 이정찬<br><br>
 <ul>
   <li>실시간채팅 게시글(댓글)</li>
